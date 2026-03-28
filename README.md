@@ -1,32 +1,25 @@
-
 # Mad Comms
 
-Do you struggle with communication in CS2? Me too. Some pokemon languages make me mad. 
-So... that's it - MadComms, simple free-to-use python script, which allows to translate anything, what you copy to clipboard and display on screen.
+Do you struggle with communication in CS2?  
+Same here — some Pokémon dialects tilt me harder than losing a 1v5.
 
+**MadComms** is a tiny, free‑to‑use Python tool that translates anything you copy to your clipboard and instantly displays it on screen.  
+No overlays, no bloat, no spyware — just quick translations powered by DeepL.
 
+Perfect for clutch moments when your teammate types hieroglify instead of English.
 
+## ✨ Features
 
+- Translates anything you copy to clipboard (DeepL API)
+- Lightweight, fast and dead simple
+- Works in the background while you play
+- Zero configuration besides your API key
+- No UI clutter — just the text you need, when you need it
 
+## 🚀 How to Run
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+1. Copy the code from `main.py`
+2. Add your DeepL API key:
 
-
-
-## Authors
-
-- [@p4steo](https://github.com/P4steo)
-
-
-## Deployment
-
-To deploy this project copy the code from file main.py. 
-
-Then change following line to your DEEPL API:
-
-```bash
-API_KEY = "YOUR API HERE"
-```
-Run the code.
-
-
+```python
+API_KEY = "YOUR_API_HERE"
