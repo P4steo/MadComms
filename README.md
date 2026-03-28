@@ -8,7 +8,7 @@ No overlays, no bloat, no spyware — just quick translations powered by DeepL.
 
 Perfect for clutch moments when your teammate types hieroglify instead of English.
 
-## ✨ Features
+## Features
 
 - Translates anything you copy to clipboard (DeepL API)
 - Lightweight, fast and dead simple
@@ -16,10 +16,12 @@ Perfect for clutch moments when your teammate types hieroglify instead of Englis
 - Zero configuration besides your API key
 - No UI clutter — just the text you need, when you need it
 
-## 🚀 How to Run
+## How to Run
 
 1. Copy the code from `main.py`
 2. Add your DeepL API key:
 
 ```python
 API_KEY = "YOUR_API_HERE"
+```
+3. Run the code.
