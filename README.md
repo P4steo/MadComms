@@ -20,9 +20,9 @@ Perfect for clutch moments when your teammate types hieroglify instead of Englis
 
 1. Copy the code from main.py  
 2. Add your DeepL API key:
-
+```python
 API_KEY = "YOUR_API_HERE"
-
+```
 3. Run the script.  
 4. Copy text → get translation → stay sane.
 
